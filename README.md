@@ -1,29 +1,29 @@
-Hi, I'm Yoon Sung Choi 👋
+# 👋 Hi, I'm Yoonsung Choi
 
-Electrical & Electronic Engineer
-Aspiring AI Engineer
+### AI Engineer in Progress
 
-About Me
+🎓 B.S. in Electrical & Electronic Engineering
 
-- Studying Electrical & Electronic Engineering
-- Interested in Data Analysis and AI 
-- Learning Machine Learning and Deep Learning
-- Building projects to solve real-world engineering problems
-
-Skills
-
-- Python
-- MATLAB
-- Git & GitHub
-- Data Analysis
+🌱 Currently Learning
+- PyTorch
 - Machine Learning
-- Computer vision
+- Deep Learning
+- Computer Vision
   
-
-Projects
-
-- EV Ride-Sharing Station Optimization (MCLP) with Hyundai Motors group
+🚀 Projects
+- EV Ride Sharing Optimization (MCLP) with Hyundai Motors Group
 - M-QAM Baseband Simulator in UNIST ACNL
-- Developing Ai vision Model in POSCO
+- AI & Data Analysis Projects in Posco
 
-📫 Always open to learning and collaboration.
+📫 Contact
+- Email: ch001222@naver.com
+
+---
+
+## 🛠 Tech Stack
+
+Python | MATLAB | C++ | Git 
+
+---
+
+> "Taking the first step toward becoming an AI Engineer."
