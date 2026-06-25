@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yoonsung Choi
 
-### AI Engineer in Progress
+### Production Technology Engineer in Progress
 
 🎓 B.S. in Electrical & Electronic Engineering
 
